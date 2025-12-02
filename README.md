@@ -21,4 +21,4 @@ Handles from the server:
 - TOPIC command
 - MODE command (i, t, k, o and l modes)
 
-Now get your client and have fun 🔥 !
+Now get your client and have fun ! 🔥
