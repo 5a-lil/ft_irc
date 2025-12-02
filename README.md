@@ -12,7 +12,7 @@ $ ./ircserv <port> <server-password>
 Handles from the server:
 - Connection to server without any errors
 - Communication between client and server using TCP/IP (v4)
-- Fully handled authentification feature
+- Fully handled authentification feature and private message system
 - Channel management 
 - Operators and regular users managed (creation, destruction, differences, channel rights etc...)
 - KICK command
