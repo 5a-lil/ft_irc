@@ -1,4 +1,4 @@
-# ft_irc
+# IRC_Protocol_Server
 
 Using **sys/poll.h** header for the **poll()** function, we could handle at first the requests for I/O (Input/Output) interactions. Then when getting the full requests from the client with **recv()** we could then process the data to then **send()** the correct RPL for the client, taking as reference the **RFC 1459**. **Irssi** client was took as reference for all features handled.
 
